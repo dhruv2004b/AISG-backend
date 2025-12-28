@@ -1,0 +1,27 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+.env
+
+# Generated assets
+backend/node-api/assets/images/
+backend/node-api/assets/audio/
+backend/node-api/data/
+backend/video-engine/output/
+
+# Generated captions ONLY (keep JS files)
+backend/node-api/captions/*.json
+
+# Media
+*.mp4
+*.mp3
+*.wav
+*.jpg
+*.png
+
+# OS
+.DS_Store
+Thumbs.db

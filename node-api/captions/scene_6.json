@@ -1,0 +1,108 @@
+{
+  "scene_id": 6,
+  "audio_duration": 8.52,
+  "captions": [
+    {
+      "words": [
+        {
+          "text": "THE",
+          "start": 0,
+          "end": 0.57
+        },
+        {
+          "text": "CONFLICT",
+          "start": 0.57,
+          "end": 1.14
+        },
+        {
+          "text": "ESCALATES",
+          "start": 1.14,
+          "end": 1.71
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "INTO",
+          "start": 1.71,
+          "end": 2.28
+        },
+        {
+          "text": "AVENGERS",
+          "start": 2.28,
+          "end": 2.85
+        },
+        {
+          "text": "SECRET",
+          "start": 2.85,
+          "end": 3.42
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "WARS",
+          "start": 3.42,
+          "end": 3.99
+        },
+        {
+          "text": "WHERE",
+          "start": 3.99,
+          "end": 4.56
+        },
+        {
+          "text": "THE",
+          "start": 4.56,
+          "end": 5.13
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "MULTIVERSE",
+          "start": 5.13,
+          "end": 5.7
+        },
+        {
+          "text": "COLLAPSES",
+          "start": 5.7,
+          "end": 6.27
+        },
+        {
+          "text": "AND",
+          "start": 6.27,
+          "end": 6.84
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "BATTLEWORLD",
+          "start": 6.84,
+          "end": 7.41
+        },
+        {
+          "text": "IS",
+          "start": 7.41,
+          "end": 7.98
+        },
+        {
+          "text": "BORN",
+          "start": 7.98,
+          "end": 8.55
+        }
+      ]
+    }
+  ],
+  "style": {
+    "active_color": "yellow",
+    "inactive_color": "white",
+    "position": "center",
+    "font_weight": "bold",
+    "max_words": 3
+  }
+}

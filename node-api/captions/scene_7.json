@@ -1,0 +1,122 @@
+{
+  "scene_id": 7,
+  "audio_duration": 8.62,
+  "captions": [
+    {
+      "words": [
+        {
+          "text": "LEGACY",
+          "start": 0,
+          "end": 0.51
+        },
+        {
+          "text": "ACTORS",
+          "start": 0.51,
+          "end": 1.02
+        },
+        {
+          "text": "RETURN",
+          "start": 1.02,
+          "end": 1.53
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "AND",
+          "start": 1.53,
+          "end": 2.04
+        },
+        {
+          "text": "THE",
+          "start": 2.04,
+          "end": 2.55
+        },
+        {
+          "text": "XMEN",
+          "start": 2.55,
+          "end": 3.06
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "JOIN",
+          "start": 3.06,
+          "end": 3.57
+        },
+        {
+          "text": "THE",
+          "start": 3.57,
+          "end": 4.08
+        },
+        {
+          "text": "FRAY",
+          "start": 4.08,
+          "end": 4.59
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "PROMISING",
+          "start": 4.59,
+          "end": 5.1
+        },
+        {
+          "text": "A",
+          "start": 5.1,
+          "end": 5.61
+        },
+        {
+          "text": "DEFINITIVE",
+          "start": 5.61,
+          "end": 6.12
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "RESET",
+          "start": 6.12,
+          "end": 6.63
+        },
+        {
+          "text": "OF",
+          "start": 6.63,
+          "end": 7.14
+        },
+        {
+          "text": "THE",
+          "start": 7.14,
+          "end": 7.65
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "MCU",
+          "start": 7.65,
+          "end": 8.16
+        },
+        {
+          "text": "TIMELINE",
+          "start": 8.16,
+          "end": 8.67
+        }
+      ]
+    }
+  ],
+  "style": {
+    "active_color": "yellow",
+    "inactive_color": "white",
+    "position": "center",
+    "font_weight": "bold",
+    "max_words": 3
+  }
+}

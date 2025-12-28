@@ -1,0 +1,103 @@
+{
+  "scene_id": 5,
+  "audio_duration": 7.17,
+  "captions": [
+    {
+      "words": [
+        {
+          "text": "THOR",
+          "start": 0,
+          "end": 0.51
+        },
+        {
+          "text": "SHANGCHI",
+          "start": 0.51,
+          "end": 1.02
+        },
+        {
+          "text": "AND",
+          "start": 1.02,
+          "end": 1.53
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "THE",
+          "start": 1.53,
+          "end": 2.04
+        },
+        {
+          "text": "FANTASTIC",
+          "start": 2.04,
+          "end": 2.55
+        },
+        {
+          "text": "FOUR",
+          "start": 2.55,
+          "end": 3.06
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "JOIN",
+          "start": 3.06,
+          "end": 3.57
+        },
+        {
+          "text": "FORCES",
+          "start": 3.57,
+          "end": 4.08
+        },
+        {
+          "text": "WITH",
+          "start": 4.08,
+          "end": 4.59
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "THE",
+          "start": 4.59,
+          "end": 5.1
+        },
+        {
+          "text": "NEW",
+          "start": 5.1,
+          "end": 5.61
+        },
+        {
+          "text": "CAPTAIN",
+          "start": 5.61,
+          "end": 6.12
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "AMERICA",
+          "start": 6.12,
+          "end": 6.63
+        },
+        {
+          "text": "TEAM",
+          "start": 6.63,
+          "end": 7.14
+        }
+      ]
+    }
+  ],
+  "style": {
+    "active_color": "yellow",
+    "inactive_color": "white",
+    "position": "center",
+    "font_weight": "bold",
+    "max_words": 3
+  }
+}

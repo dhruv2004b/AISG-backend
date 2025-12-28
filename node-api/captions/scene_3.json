@@ -1,0 +1,98 @@
+{
+  "scene_id": 3,
+  "audio_duration": 7.78,
+  "captions": [
+    {
+      "words": [
+        {
+          "text": "DOOM'S",
+          "start": 0,
+          "end": 0.6
+        },
+        {
+          "text": "ARRIVAL",
+          "start": 0.6,
+          "end": 1.2
+        },
+        {
+          "text": "TRIGGERS",
+          "start": 1.2,
+          "end": 1.8
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "A",
+          "start": 1.8,
+          "end": 2.4
+        },
+        {
+          "text": "'CASCADING",
+          "start": 2.4,
+          "end": 3
+        },
+        {
+          "text": "CRISIS'",
+          "start": 3,
+          "end": 3.6
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "FORCING",
+          "start": 3.6,
+          "end": 4.2
+        },
+        {
+          "text": "THE",
+          "start": 4.2,
+          "end": 4.8
+        },
+        {
+          "text": "AVENGERS",
+          "start": 4.8,
+          "end": 5.4
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "TO",
+          "start": 5.4,
+          "end": 6
+        },
+        {
+          "text": "UNITE",
+          "start": 6,
+          "end": 6.6
+        },
+        {
+          "text": "ACROSS",
+          "start": 6.6,
+          "end": 7.2
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "REALITIES",
+          "start": 7.2,
+          "end": 7.8
+        }
+      ]
+    }
+  ],
+  "style": {
+    "active_color": "yellow",
+    "inactive_color": "white",
+    "position": "center",
+    "font_weight": "bold",
+    "max_words": 3
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "scene_id": 1,
+  "audio_duration": 7.8,
+  "captions": [
+    {
+      "words": [
+        {
+          "text": "THE",
+          "start": 0,
+          "end": 0.56
+        },
+        {
+          "text": "MARVEL",
+          "start": 0.56,
+          "end": 1.12
+        },
+        {
+          "text": "CINEMATIC",
+          "start": 1.12,
+          "end": 1.68
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "UNIVERSE",
+          "start": 1.68,
+          "end": 2.24
+        },
+        {
+          "text": "SETS",
+          "start": 2.24,
+          "end": 2.8
+        },
+        {
+          "text": "THE",
+          "start": 2.8,
+          "end": 3.36
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "STAGE",
+          "start": 3.36,
+          "end": 3.92
+        },
+        {
+          "text": "FOR",
+          "start": 3.92,
+          "end": 4.48
+        },
+        {
+          "text": "ITS",
+          "start": 4.48,
+          "end": 5.04
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "BIGGEST",
+          "start": 5.04,
+          "end": 5.6
+        },
+        {
+          "text": "CROSSOVER",
+          "start": 5.6,
+          "end": 6.16
+        },
+        {
+          "text": "YET",
+          "start": 6.16,
+          "end": 6.72
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "AVENGERS",
+          "start": 6.72,
+          "end": 7.28
+        },
+        {
+          "text": "DOOMSDAY",
+          "start": 7.28,
+          "end": 7.84
+        }
+      ]
+    }
+  ],
+  "style": {
+    "active_color": "yellow",
+    "inactive_color": "white",
+    "position": "center",
+    "font_weight": "bold",
+    "max_words": 3
+  }
+}

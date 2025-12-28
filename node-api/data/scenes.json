@@ -1,0 +1,53 @@
+{
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "The Marvel Cinematic Universe sets the stage for its biggest crossover yet, Avengers: Doomsday.",
+      "caption": "Avengers: Doomsday",
+      "image_prompt": "A sprawling cityscape with the Avengers logo looming large",
+      "duration_sec": 6
+    },
+    {
+      "scene_id": 2,
+      "narration": "Robert Downey Jr. returns, but not as Iron Man – he's Doctor Doom, a master of science and sorcery.",
+      "caption": "Robert Downey Jr. as Doctor Doom",
+      "image_prompt": "A dark, mystical Doctor Doom standing amidst a swirling vortex",
+      "duration_sec": 6
+    },
+    {
+      "scene_id": 3,
+      "narration": "Doom's arrival triggers a 'cascading crisis,' forcing the Avengers to unite across realities.",
+      "caption": "Cascading Crisis",
+      "image_prompt": "A fragmented cityscape with multiple Avengers teams from different realities",
+      "duration_sec": 6
+    },
+    {
+      "scene_id": 4,
+      "narration": "Led by Captain America and Bucky Barnes, the team must face a dark variant of their fallen friend.",
+      "caption": "Dark Variant",
+      "image_prompt": "A shadowy figure with a familiar face, standing amidst a desolate landscape",
+      "duration_sec": 6
+    },
+    {
+      "scene_id": 5,
+      "narration": "Thor, Shang-Chi, and the Fantastic Four join forces with the new Captain America team.",
+      "caption": "United Heroes",
+      "image_prompt": "A diverse group of Avengers standing together, ready for battle",
+      "duration_sec": 6
+    },
+    {
+      "scene_id": 6,
+      "narration": "The conflict escalates into Avengers: Secret Wars, where the multiverse collapses and Battleworld is born.",
+      "caption": "Avengers: Secret Wars",
+      "image_prompt": "A post-apocalyptic landscape with the Battleworld logo looming large",
+      "duration_sec": 6
+    },
+    {
+      "scene_id": 7,
+      "narration": "Legacy actors return, and the X-Men join the fray, promising a definitive reset of the MCU timeline.",
+      "caption": "New Beginning",
+      "image_prompt": "A group of Avengers and X-Men standing together, ready for a new era",
+      "duration_sec": 6
+    }
+  ]
+}

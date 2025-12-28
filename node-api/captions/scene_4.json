@@ -1,0 +1,127 @@
+{
+  "scene_id": 4,
+  "audio_duration": 7.37,
+  "captions": [
+    {
+      "words": [
+        {
+          "text": "LED",
+          "start": 0,
+          "end": 0.41
+        },
+        {
+          "text": "BY",
+          "start": 0.41,
+          "end": 0.82
+        },
+        {
+          "text": "CAPTAIN",
+          "start": 0.82,
+          "end": 1.23
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "AMERICA",
+          "start": 1.23,
+          "end": 1.64
+        },
+        {
+          "text": "AND",
+          "start": 1.64,
+          "end": 2.05
+        },
+        {
+          "text": "BUCKY",
+          "start": 2.05,
+          "end": 2.46
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "BARNES",
+          "start": 2.46,
+          "end": 2.87
+        },
+        {
+          "text": "THE",
+          "start": 2.87,
+          "end": 3.28
+        },
+        {
+          "text": "TEAM",
+          "start": 3.28,
+          "end": 3.69
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "MUST",
+          "start": 3.69,
+          "end": 4.1
+        },
+        {
+          "text": "FACE",
+          "start": 4.1,
+          "end": 4.51
+        },
+        {
+          "text": "A",
+          "start": 4.51,
+          "end": 4.92
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "DARK",
+          "start": 4.92,
+          "end": 5.33
+        },
+        {
+          "text": "VARIANT",
+          "start": 5.33,
+          "end": 5.74
+        },
+        {
+          "text": "OF",
+          "start": 5.74,
+          "end": 6.15
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "THEIR",
+          "start": 6.15,
+          "end": 6.56
+        },
+        {
+          "text": "FALLEN",
+          "start": 6.56,
+          "end": 6.97
+        },
+        {
+          "text": "FRIEND",
+          "start": 6.97,
+          "end": 7.38
+        }
+      ]
+    }
+  ],
+  "style": {
+    "active_color": "yellow",
+    "inactive_color": "white",
+    "position": "center",
+    "font_weight": "bold",
+    "max_words": 3
+  }
+}

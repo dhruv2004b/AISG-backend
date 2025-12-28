@@ -1,0 +1,127 @@
+{
+  "scene_id": 2,
+  "audio_duration": 8.47,
+  "captions": [
+    {
+      "words": [
+        {
+          "text": "ROBERT",
+          "start": 0,
+          "end": 0.47
+        },
+        {
+          "text": "DOWNEY",
+          "start": 0.47,
+          "end": 0.94
+        },
+        {
+          "text": "JR",
+          "start": 0.94,
+          "end": 1.41
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "RETURNS",
+          "start": 1.41,
+          "end": 1.88
+        },
+        {
+          "text": "BUT",
+          "start": 1.88,
+          "end": 2.35
+        },
+        {
+          "text": "NOT",
+          "start": 2.35,
+          "end": 2.82
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "AS",
+          "start": 2.82,
+          "end": 3.29
+        },
+        {
+          "text": "IRON",
+          "start": 3.29,
+          "end": 3.76
+        },
+        {
+          "text": "MAN",
+          "start": 3.76,
+          "end": 4.23
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "HE'S",
+          "start": 4.23,
+          "end": 4.7
+        },
+        {
+          "text": "DOCTOR",
+          "start": 4.7,
+          "end": 5.17
+        },
+        {
+          "text": "DOOM",
+          "start": 5.17,
+          "end": 5.64
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "A",
+          "start": 5.64,
+          "end": 6.11
+        },
+        {
+          "text": "MASTER",
+          "start": 6.11,
+          "end": 6.58
+        },
+        {
+          "text": "OF",
+          "start": 6.58,
+          "end": 7.05
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "text": "SCIENCE",
+          "start": 7.05,
+          "end": 7.52
+        },
+        {
+          "text": "AND",
+          "start": 7.52,
+          "end": 7.99
+        },
+        {
+          "text": "SORCERY",
+          "start": 7.99,
+          "end": 8.46
+        }
+      ]
+    }
+  ],
+  "style": {
+    "active_color": "yellow",
+    "inactive_color": "white",
+    "position": "center",
+    "font_weight": "bold",
+    "max_words": 3
+  }
+}
