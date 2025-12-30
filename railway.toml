@@ -2,9 +2,17 @@
 builder = "nixpacks"
 
 [build.nixpacks]
-packages = [
-  "ffmpeg",
-  "imagemagick",
-  "python310",
-  "python310Packages.pip"
-]
+# Explicitly declare what languages we use
+providers = ["node", "python"]
+
+[build.nixpacks.node]
+dir = "node-api"
+
+[build.nixpacks.python]
+dir = "video-engine"
+
+[build.nixpacks.systemPackages]
+packages = ["ffmpeg"]
+
+[start]
+cmd = "node node-api/index.js"
