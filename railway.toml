@@ -1,0 +1,10 @@
+[build]
+builder = "nixpacks"
+
+[build.nixpacks]
+packages = [
+  "ffmpeg",
+  "imagemagick",
+  "python310",
+  "python310Packages.pip"
+]
